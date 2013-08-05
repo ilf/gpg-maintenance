@@ -43,6 +43,8 @@ Configuration
 
 Be sure to set up your GnuPG options file "~/.gnupg/gpg.conf" to use Tor and a Keyserver supporting HKPS.
 
+See the example gpg.conf for some proposed good practices.
+
 License
 -------
 
