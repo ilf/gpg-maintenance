@@ -26,13 +26,6 @@ TODO
 
 GPG maintenance currently uses the $RANDOM variable and therefore is not POSIX compatible :(
 
-Delete Bad Keys
----------------
-
-GPG maintenance can also delete disabled, expired, invalid and revoked keys to trim down the keyring.
-
-This is disabled by default, since this interferes with your reach within the web of trust.
-
 Inspiration
 -----------
 
