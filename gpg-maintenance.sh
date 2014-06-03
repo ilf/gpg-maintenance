@@ -1,9 +1,9 @@
 #!/bin/zsh
 
+sleep 30	# wait for tor on boot
+
 while true
 do
-	sleep 30	# wait for tor on boot
-
 	for key in $(gpg --list-keys --with-colons | grep "^pub" | cut --fields 5 --delimiter ":" | sort --random-sort)
 	do
 		gpg --batch --no-tty --no-auto-check-trustdb --refresh-keys $key 2> /dev/null
