@@ -9,7 +9,7 @@ GPG maintenance keeps your GnuPG OpenPGP keyring current, by constantly and sile
 Refresh Public Keys
 -------------------
 
-From Riseup Labs [OpenPGP Best Practices](https://we.riseup.net/riseuplabs+paow/openpgp-best-practices):
+From Riseup [OpenPGP Best Practices](https://help.riseup.net/en/security/message-security/openpgp/gpg-best-practices):
 
 > Make sure you are receiving regular key updates.
 
