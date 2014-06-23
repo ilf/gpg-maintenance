@@ -36,7 +36,7 @@ See the example LSBInitScript.sh for an LSB (Linux Standards Base)-compliant Ini
 TODO
 ----
 
-GPG maintenance currently uses the $RANDOM variable and therefore is not POSIX compatible :(
+GPG maintenance is currently not POSIX compatible, because it uses the $RANDOM variable, grep --after-context and sort --random-sort. :(
 
 Inspiration
 -----------
