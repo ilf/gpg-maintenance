@@ -9,6 +9,4 @@ do
 		gpg --batch --no-tty --no-auto-check-trustdb --refresh-keys $key 2> /dev/null
 		sleep $(( ($RANDOM % 1000) + 300))
 	done
-
-	gpg --check-trustdb 2> /dev/null
 done &
