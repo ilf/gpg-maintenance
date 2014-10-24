@@ -41,7 +41,7 @@ Inspiration
 
 There's [parcimonie](https://gaffer.ptitcanardnoir.org/intrigeri/code/parcimonie/) doing something similar. But it's Perl. And it's over 9000 Hectobytes.
 
-Since three months after this project was first published, there is also [parcimonie.sh](https://github.com/EtiennePerot/parcimonie.sh), but it currently has more than 14 times more SLOC than this.
+Since three months after this project was first published, there is also [parcimonie.sh](https://github.com/EtiennePerot/parcimonie.sh), but it currently has over 50 times more SLOC than this.
 
 License
 -------
