@@ -46,4 +46,4 @@ Since three months after this project was first published, there is also [parcim
 License
 -------
 
-[Beerware](https://en.wikipedia.org/wiki/Beerware)
+[HESSLA](https://web.archive.org/web/20161202010051/http://www.hacktivismo.com/about/hessla.php), but I also [like beer](https://en.wikipedia.org/wiki/Beerware).
