@@ -20,9 +20,9 @@ GPG maintenance is a simple shell script taking all public keys in your keyring 
 Configuration
 -------------
 
-Be sure to set up your GnuPG options file `~/.gnupg/gpg.conf` to use Tor and a Keyserver supporting HKPS.
+Be sure to set up your GnuPG to use Tor and a Keyserver supporting HKPS.
 
-See [this example gpg.conf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) for an implementation of the OpenPGP Best Practices.
+See [this example gpg.conf](https://github.com/ioerror/duraconf/blob/master/configs/gnupg/gpg.conf) for an implementation of the OpenPGP Best Practices with GnuPG 1.4. But really, you should be using GnuPG 2.1+ these days.
 
 Autostart
 ---------
