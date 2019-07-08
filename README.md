@@ -34,7 +34,8 @@ See the example `LSBInitScript.sh` for an LSB (Linux Standards Base)-compliant I
 TODO
 ----
 
-GPG maintenance is currently not POSIX compatible, because it uses the `grep --after-context` and `sort --random-sort`. :(
+* POSIX compatibility: `grep --after-context` and `sort --random-sort`
+* evaluate [GnuPG Made Easy](https://www.gnupg.org/documentation/manuals/gpgme/) instead of GnuPG binary
 
 Inspiration
 -----------
