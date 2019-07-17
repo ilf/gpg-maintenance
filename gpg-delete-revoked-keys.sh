@@ -4,8 +4,6 @@
 # warning: only run this if you understand what it does!
 #-----------------------------
 
-# flags
-# -----
 # pub:r - revoked certificates
 #   - other options: expired, not valid, invalid, unknown validity, undefined validity...
 #   - see https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=blob_plain;f=doc/DETAILS;hb=refs/heads/master
